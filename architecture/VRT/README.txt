@@ -5,3 +5,6 @@ python main_test_vrt.py --task 003_VRT_videosr_bi_Vimeo_7frames --folder_lq test
 
 
 data/dataset_video_test.py用于准备数据集
+model_zoo用于存放预训练权重文件
+testsets/用于存放下载好的数据集
+utils是工具包
